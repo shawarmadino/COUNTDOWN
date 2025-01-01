@@ -26,8 +26,12 @@
             countdown.style.display = "none";
             content.style.display = "block";
   
+
+window.location = “https://shawarmadino.github.io/HB/”;
+else
+window.location = “https://shawarmadino.github.io/HB/”;
             clearInterval(x);
-          }
+          
           //seconds
         }, 0)
     }());
